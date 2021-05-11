@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Sjuheon
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Sjuheon/Sjuheon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![test](https://github.com/Sjuheon/Development-Lab/blob/main/image/Sjuheon%20Thumbnail.png?raw=true)
+# Sjuheon -  JUNIOR BACKEND 	DEVELOPER
+My steps to become an advanced Backend developer
+## Sources
+ - Java
+ - HTML + CSS + JS
+ - Spring framework
