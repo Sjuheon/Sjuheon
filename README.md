@@ -1,7 +1,8 @@
-![test](https://github.com/Sjuheon/Development-Lab/blob/main/image/Sjuheon%20Thumbnail.png?raw=true)
+![test](https://lh3.googleusercontent.com/79vCG8A-23n8KROw7dK8-LlgBuj1DUw1kTUkl0ympKSBLgUTtgWqOO0ZgjUSfCrLj1fxmK-sZy-C2tle4s1R6Ri5tv152lOuJnK_yVoTgf8nem-9ng8h5_aA9W-Q9dKCsWkyjPb8BU5riOb--aY33apTA7ozcDPO53EZh09M58n7a_YH4PLb7lRxRQqv_K6eaG5d-iegWUf29DJDoDC61qnKuXsKnVEFPl1_p8e2WZNBwDGLnUK0lyhraA3dQpapXSEQ89o_uddQW-FrLFmEWRaoY9iu8x-4Jf7ARtbrqIKiyehQRKsBpg-B2fDIapTm_h6p_h7M-DvPLHNwHU78n7l2JMycYMgM5kZK6ZltA4G8zD-m_h1UVyAZ5QHRxFyTxHHjakWBNJ7ZrwqT1veQr8PpD6cCEoFFkzCMqxnHb6AfpI7umE3XL1hg_uUvd9Ua9BHjc5KYEdVWENmo0J0ylK7e8gf5LRnvnUGWhG5n2Mi-WFtnCpwM6aonNlLmeLuzq6Ro80GStYh38ZViHhUPUqQEQo6X_O958Qpe402JiuAzs_CiZLcdK0tTMJR2lHEnE6PNm4ZINcTKZVBw0UZ9M-2WZClM7wLA4TaF_7Ros8bQblnV5DQzOpZjWNoOSnJvG91XFDcxfA4HKy8tha6hqL786b3va8gJGHvB7wRqGjhRuciTY5nO9pbFuByk7AFA1rGlwhrlyUcZ_y_1xyxzWzs=w1079-h461-no?authuser=0)
 # Sjuheon -  JUNIOR BACKEND 	DEVELOPER
-My steps to become an advanced Backend developer
-## Sources
+다양한 개발 기술들을 배우고 기록해나가며 성장하는 개발자를 지향하는 성주헌(Sjuheon) 입니다.
+<br>언어의 특징과 이를 활용하여 간결한 코드를 만들어 나가기 위한 공부를 하고 있습니다.
+### Tools
  - Java
  - HTML + CSS + JS
  - Spring framework
