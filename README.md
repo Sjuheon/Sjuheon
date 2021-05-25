@@ -6,3 +6,4 @@
  - Java
  - HTML + CSS + JS
  - Spring framework
+ - MySQL
